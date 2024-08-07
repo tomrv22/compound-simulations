@@ -7,18 +7,24 @@ This project provides comprehensive simulations for systematic investment plans 
   Calculates fund longevity based on specific user inputs.
 
 ### Multiple Simulations
-  Runs thousands of simulations to provide a normal distribution of fund exhaustion years, offering a clearer picture.
+  Runs thousands of simulations (user inputted number) to provide a normal distribution of fund exhaustion years, offering a clearer picture.
+  ![image](https://github.com/user-attachments/assets/d927cf83-eaf9-479e-914f-47f2e4466710)
+
 
 ### Live Corpus Visualization
-  Shows real-time changes in the corpus during the investment and withdrawal phases.
+  Shows real-time changes in the corpus during the withdrawal phase.
+  ![image](https://github.com/user-attachments/assets/f0be860f-7c6e-4600-b56b-efcfdc16802d)
+
 
 ### Comparison Analysis
-  Compares the effectiveness of lump sum investing vs. monthly SIPs.
+  Compares the effectiveness of lump sum investing vs. monthly SIPs vs. yearly SIPs.
   
 ## Parameters Considered
 **Initial Investment:** The starting amount invested.
 
 **Monthly Contribution:** Regular monthly investment.
+
+**Annual hike in monthly contribution:** The percentage increase in monthly contribution at the start of every year
 
 **Annual Growth Rate:** Growth rate of the investment corpus, sampled from a normal distribution.
 
