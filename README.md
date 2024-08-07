@@ -8,13 +8,11 @@ This project provides comprehensive simulations for systematic investment plans 
 
 ### Multiple Simulations
   Runs thousands of simulations (user inputted number) to provide a normal distribution of fund exhaustion years, offering a clearer picture.
-  ![image](https://github.com/user-attachments/assets/d927cf83-eaf9-479e-914f-47f2e4466710)
-
+  ![image](https://github.com/user-attachments/assets/b7def629-11f0-4ead-ada8-6546b5518601)
 
 ### Live Corpus Visualization
   Shows real-time changes in the corpus during the withdrawal phase.
   ![image](https://github.com/user-attachments/assets/f0be860f-7c6e-4600-b56b-efcfdc16802d)
-
 
 ### Comparison Analysis
   Compares the effectiveness of lump sum investing vs. monthly SIPs vs. yearly SIPs.
