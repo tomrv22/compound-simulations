@@ -1,4 +1,4 @@
-# Financial Planning Simulation Project
+# Financial Planning Simulation
 ## Overview
 This project provides comprehensive simulations for systematic investment plans (SIPs) and systematic withdrawal plans (SWPs). The aim is to help users understand how their investment corpus grows over time and estimate how long it will last during the withdrawal phase.
 
